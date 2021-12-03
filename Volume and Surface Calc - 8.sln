@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Volume and Surface Calc - 8", "Volume and Surface Calc - 8\Volume and Surface Calc - 8.vbproj", "{78A80BAF-344C-4481-BD15-28D934A2B01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A80BAF-344C-4481-BD15-28D934A2B01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A80BAF-344C-4481-BD15-28D934A2B01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A80BAF-344C-4481-BD15-28D934A2B01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A80BAF-344C-4481-BD15-28D934A2B01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

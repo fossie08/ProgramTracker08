@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Volume and Surface Calc - 8\Volume and Surface Calc - 8\obj\Debug\Volume and Surface Calc - 8.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Volume and Surface Calc - 8\Volume and Surface Calc - 8\bin\Debug\Volume and Surface Calc - 8.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Volume and Surface Calc - 8\Volume and Surface Calc - 8\bin\Debug\Volume and Surface Calc - 8.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Volume and Surface Calc - 8\Volume and Surface Calc - 8\obj\Debug\Volume and Surface Calc - 8.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\Volume and Surface Calc - 8\Volume and Surface Calc - 8\obj\Debug\Volume and Surface Calc - 8.pdb
